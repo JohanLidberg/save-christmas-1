@@ -5,7 +5,7 @@ function indexOf(arr, item) {
            return true
        }
     }
-    return false
+    return -1
 
 }
 
